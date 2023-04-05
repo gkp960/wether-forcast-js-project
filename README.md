@@ -1,1 +1,1 @@
-# wether-forcast-js-project
+# weather-forecast
